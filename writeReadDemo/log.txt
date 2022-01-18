@@ -1,0 +1,57 @@
+MAIN - WARNING - --------------------------------------------- O L D ---------------------------------------------
+MAIN - WARNING - 18/01/2022 22:47:21 - The Program Has started properly no errors yet.
+MAIN - WARNING - 18/01/2022 22:47:21 - TThe Program Has Quit After, 1 seconds using "end" command
+MAIN - WARNING - --------------------------------------------- O L D ---------------------------------------------
+MAIN - WARNING - 18/01/2022 23:01:17 - The Program Has started properly no errors yet.
+MAIN - WARNING - 18/01/2022 23:01:17 - User has inputed city, dubai
+MAIN - WARNING - 18/01/2022 23:01:17 - The current temprature in Celcus in, dubai is, 23
+MAIN - WARNING - 18/01/2022 23:01:17 - The current temprature in Kelvin in, dubai is, 297
+MAIN - WARNING - 18/01/2022 23:01:17 - The Weather Description in, dubai is, clear sky
+MAIN - WARNING - 18/01/2022 23:01:17 - Time elapsed, 4 seconds
+MAIN - WARNING - 18/01/2022 23:01:17 - User said comment about dubai
+MAIN - WARNING - 18/01/2022 23:01:17 - User has chosen to write to file
+MAIN - WARNING - 18/01/2022 23:01:17 - User has added comment wow
+MAIN - WARNING - --------------------------------------------- N E W ---------------------------------------------
+MAIN - WARNING - 18/01/2022 23:01:17 - User has inputed city, dubai
+MAIN - WARNING - 18/01/2022 23:01:17 - The current temprature in Celcus in, dubai is, 23
+MAIN - WARNING - 18/01/2022 23:01:17 - The current temprature in Kelvin in, dubai is, 297
+MAIN - WARNING - 18/01/2022 23:01:17 - The Weather Description in, dubai is, clear sky
+MAIN - WARNING - 18/01/2022 23:01:17 - Time elapsed, 11 seconds
+MAIN - WARNING - 18/01/2022 23:01:17 - User said comment about dubai
+MAIN - WARNING - 18/01/2022 23:01:17 - User has chosen to read the file
+MAIN - WARNING - --------------------------------------------- N E W ---------------------------------------------
+MAIN - WARNING - 18/01/2022 23:01:17 - User has inputed city, dubai
+MAIN - WARNING - 18/01/2022 23:01:17 - The current temprature in Celcus in, dubai is, 23
+MAIN - WARNING - 18/01/2022 23:01:17 - The current temprature in Kelvin in, dubai is, 297
+MAIN - WARNING - 18/01/2022 23:01:17 - The Weather Description in, dubai is, clear sky
+MAIN - WARNING - 18/01/2022 23:01:17 - Time elapsed, 20 seconds
+MAIN - WARNING - 18/01/2022 23:01:17 - User said comment about dubai
+MAIN - WARNING - 18/01/2022 23:01:17 - User has chosen to read the file
+MAIN - WARNING - 18/01/2022 23:01:17 - User cleared comments file
+MAIN - WARNING - --------------------------------------------- N E W ---------------------------------------------
+MAIN - WARNING - 18/01/2022 23:01:17 - User has inputed city, dubai
+MAIN - WARNING - 18/01/2022 23:01:17 - The current temprature in Celcus in, dubai is, 23
+MAIN - WARNING - 18/01/2022 23:01:17 - The current temprature in Kelvin in, dubai is, 297
+MAIN - WARNING - 18/01/2022 23:01:17 - The Weather Description in, dubai is, clear sky
+MAIN - WARNING - 18/01/2022 23:01:17 - Time elapsed, 29 seconds
+MAIN - WARNING - 18/01/2022 23:01:17 - User said comment about dubai
+MAIN - WARNING - 18/01/2022 23:01:17 - User has chosen to read the file
+MAIN - WARNING - --------------------------------------------- N E W ---------------------------------------------
+MAIN - WARNING - 18/01/2022 23:01:17 - User has inputed city, dubai
+MAIN - WARNING - 18/01/2022 23:01:17 - The current temprature in Celcus in, dubai is, 23
+MAIN - WARNING - 18/01/2022 23:01:17 - The current temprature in Kelvin in, dubai is, 297
+MAIN - WARNING - 18/01/2022 23:01:17 - The Weather Description in, dubai is, clear sky
+MAIN - WARNING - 18/01/2022 23:01:17 - Time elapsed, 37 seconds
+MAIN - WARNING - 18/01/2022 23:01:17 - User said to run program again
+MAIN - WARNING - --------------------------------------------- N E W ---------------------------------------------
+MAIN - WARNING - 18/01/2022 23:01:17 - User has inputed city, dubai
+MAIN - WARNING - 18/01/2022 23:01:17 - The current temprature in Celcus in, dubai is, 23
+MAIN - WARNING - 18/01/2022 23:01:17 - The current temprature in Kelvin in, dubai is, 297
+MAIN - WARNING - 18/01/2022 23:01:17 - The Weather Description in, dubai is, clear sky
+MAIN - WARNING - 18/01/2022 23:01:17 - Time elapsed, 40 seconds
+MAIN - WARNING - 18/01/2022 23:01:17 - User said to stop the program
+MAIN - WARNING - 18/01/2022 23:01:17 - The Program Has Quit After, 40 seconds
+MAIN - WARNING - --------------------------------------------- O L D ---------------------------------------------
+MAIN - WARNING - 18/01/2022 23:07:43 - The Program Has started properly no errors yet.
+MAIN - WARNING - 18/01/2022 23:07:43 - The Program Has Quit After, 8 seconds, using "end" command
+MAIN - WARNING - --------------------------------------------- O L D ---------------------------------------------
